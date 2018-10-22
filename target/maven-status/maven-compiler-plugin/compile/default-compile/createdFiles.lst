@@ -1,0 +1,13 @@
+com/qroxy/crud/dao/ArticleMapper.class
+com/qroxy/crud/bean/User.class
+com/qroxy/crud/service/IUserService.class
+com/qroxy/crud/service/impl/UserService.class
+com/qroxy/crud/common/ResponseCode.class
+com/qroxy/crud/common/mbg.class
+com/qroxy/crud/dao/UserMapper.class
+com/qroxy/crud/common/ServerRespond.class
+com/qroxy/crud/test/MBGTest.class
+com/qroxy/crud/controller/UserController.class
+com/qroxy/crud/common/Const.class
+com/qroxy/crud/controller/HelloController.class
+com/qroxy/crud/bean/Article.class
